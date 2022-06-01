@@ -1,0 +1,15 @@
+{
+  "name": "calenpal",
+  "version": "1.0.0",
+  "description": "A slackbot that announces public holidays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique Batista",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.11.1",
+    "dotenv": "^16.0.1"
+  }
+}

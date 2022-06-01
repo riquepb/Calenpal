@@ -1,0 +1,36 @@
+{
+  "2022": {
+    "NewYear": {
+      "key": "New Year's Day",
+      "value": "1-1"
+    },
+    "GoodFriday": {
+      "key": "Good Friday",
+      "value": "4-15"
+    },
+    "EasterMonday": {
+      "key": "Easter Monday",
+      "value": "4-18"
+    },
+    "MayBank": {
+      "key": "May Bank Holiday",
+      "value": "5-2"
+    },
+    "SpringBank": {
+      "key": "Spring Bank Holiday",
+      "value": "6-3"
+    },
+    "SummerBank": {
+      "key": "Summer Bank Holiday",
+      "value": "8-29"
+    },
+    "ChristmasDay": {
+      "key": "Christmas Day",
+      "value": "12-25"
+    },
+    "BoxingDay": {
+      "key": "Boxing Day",
+      "value": "12-26"
+    }
+  }
+}
